@@ -1,3 +1,0 @@
-# proyecto
-proyecto
-print"hola"
